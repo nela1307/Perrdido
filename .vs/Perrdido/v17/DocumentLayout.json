@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\Perrdido\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5837B232-D449-CCCC-BDFE-49723B3CD9B6}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Downloads\\Perrdido\\assets\\scripts\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5837B232-D449-CCCC-BDFE-49723B3CD9B6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5837B232-D449-CCCC-BDFE-49723B3CD9B6}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Downloads\\Perrdido\\assets\\scripts\\vanish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5837B232-D449-CCCC-BDFE-49723B3CD9B6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\vanish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5837B232-D449-CCCC-BDFE-49723B3CD9B6}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Downloads\\Perrdido\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5837B232-D449-CCCC-BDFE-49723B3CD9B6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5837B232-D449-CCCC-BDFE-49723B3CD9B6}|Assembly-CSharp.csproj|C:\\Users\\Usuario\\Downloads\\Perrdido\\assets\\scripts\\animatior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5837B232-D449-CCCC-BDFE-49723B3CD9B6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animatior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5837B232-D449-CCCC-BDFE-49723B3CD9B6}|Assembly-CSharp.csproj|c:\\users\\usuario\\downloads\\perrdido\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5837B232-D449-CCCC-BDFE-49723B3CD9B6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Perrdido\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Perrdido\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwEUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:15:39.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animatior.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Perrdido\\Assets\\Scripts\\Animatior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Animatior.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Perrdido\\Assets\\Scripts\\Animatior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Animatior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:26:07.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Perrdido\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Perrdido\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAlwD8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T11:18:03.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vanish.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Perrdido\\Assets\\Scripts\\Vanish.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Vanish.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Perrdido\\Assets\\Scripts\\Vanish.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Vanish.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T14:56:01.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PickUp.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Perrdido\\Assets\\Scripts\\PickUp.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickUp.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Perrdido\\Assets\\Scripts\\PickUp.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:38:24.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
